@@ -11,7 +11,7 @@ pedals. This project provides a modern replacement that can be
 ## Status
 
 **Version:** 1.0  
-**Tested:** Yes — fit tested on [describe pedal/model]
+**Tested:** Yes — fit tested on an original Gibson bicycle pedal
 
 This is an independent reproduction and is not affiliated with or
 endorsed by Gibson.
@@ -33,7 +33,7 @@ Recommended starting settings:
 - Walls: 4
 - Infill: 100%
 - Supports: No
-- Orientation: [describe orientation]
+- Orientation: Print flat on the largest face
 
 The part should be printed at 100% scale.
 
@@ -41,7 +41,8 @@ See [PRINTING.md](docs/PRINTING.md) for additional information.
 
 ## Installation
 
-[Brief description of how the insert is installed.]
+Align the insert with the pedal opening and press it into place until
+it is fully seated.
 
 Check the fit carefully before using the bicycle.
 
