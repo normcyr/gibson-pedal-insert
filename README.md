@@ -1,3 +1,5 @@
+**still a WIP - repo as placeholder for now**
+
 # Gibson Bicycle Pedal Insert
 
 3D-printable replacement insert for vintage Gibson bicycle pedals.
