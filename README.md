@@ -23,6 +23,8 @@ endorsed by Gibson.
 - `docs/PRINTING.md`: printing recommendations
 - `docs/DIMENSIONS.md`: dimensions and measurements
 
+Also viewable and downloadable from the [F360 website here](https://a360.co/4dgqYPB).
+
 ## Printing
 
 Recommended starting settings:
@@ -50,15 +52,18 @@ Check the fit carefully before using the bicycle.
 
 ## Background
 
-This model was created as a replacement for the original rubber
-pedal insert found on vintage Gibson bicycle pedals.
+GIBSON pedals appear to be Canadian pedals introduced in the early 1920s,
+with a Canadian patent dated July 10, 1923. They were associated with CCM
+(Canada Cycle & Motor Co.), which may have distributed or sold them for use
+on some of its bicycles, although the available sources do not confirm that
+CCM manufactured every Gibson pedal. Examples have been documented on CCM
+bicycles from the 1930s and 1940s, including a 1941 ladies' loop-frame model;
+this project provides a replacement for its original rubber insert.
 
-Also viewable and downloadable from the [F360 website here](https://a360.co/4dgqYPB).
+### Discussion and reference material
 
-Discussion and reference material:
-
-[The CABE Gibson Pedals thread](https://thecabe.com/forum/threads/gibson-pedals-thread-post-up-your-gibson-photos.224916/)
-[Vintage CCM thread](https://www.vintageccm.com/content/gibson-pedals)
+- [The CABE Gibson Pedals thread](https://thecabe.com/forum/threads/gibson-pedals-thread-post-up-your-gibson-photos.224916/)
+- [Vintage CCM thread](https://www.vintageccm.com/content/gibson-pedals)
 
 ## License
 
