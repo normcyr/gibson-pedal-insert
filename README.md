@@ -1,5 +1,7 @@
 **still a WIP - repo as placeholder for now**
 
+Currently viewable and downloadable from the [F360 website here](https://a360.co/4dgqYPB).
+
 # Gibson Bicycle Pedal Insert
 
 3D-printable replacement insert for vintage Gibson bicycle pedals.
