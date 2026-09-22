@@ -11,7 +11,7 @@ pedals. This project provides a modern replacement that can be
 ## Status
 
 **Version:** 1.0  
-**Tested:** Yes — fit tested on an original Gibson bicycle pedal
+**Tested:** Yes - fit tested on an original Gibson bicycle pedal
 
 This is an independent reproduction and is not affiliated with or
 endorsed by Gibson.
@@ -29,7 +29,7 @@ Also viewable and downloadable from the [F360 website here](https://a360.co/4dgq
 
 Recommended starting settings:
 
-- Material: TPU
+- Material: TPU 95A or softer
 - Layer height: 0.20 mm
 - Walls: 4
 - Infill: 20%
@@ -52,7 +52,7 @@ Check the fit carefully before using the bicycle.
 
 ## Background
 
-GIBSON pedals appear to be Canadian pedals introduced in the early 1920s,
+Gibson pedals appear to be Canadian pedals introduced in the early 1920s,
 with a Canadian patent dated July 10, 1923. They were associated with CCM
 (Canada Cycle & Motor Co.), which may have distributed or sold them for use
 on some of its bicycles, although the available sources do not confirm that
@@ -70,7 +70,7 @@ this project provides a replacement for its original rubber insert.
 This model is licensed under the
 [Creative Commons Attribution 4.0 International License (CC BY 4.0)](https://creativecommons.org/licenses/by/4.0/).
 
-Copyright © 2026 Normand Cyr.
+Copyright (c) 2026 Normand Cyr.
 
 You are free to share, modify, and commercially use this model,
 provided appropriate credit is given to the original creator.
